@@ -516,7 +516,7 @@ It also demonstrates the importance of preparing datasets carefully, validating 
 
 20. Author
 
-Name: Your Name
+Name: krupa patel
 
 Project Title: COVID-19 Data Analysis and Visualization
 
