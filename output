@@ -1,0 +1,12 @@
+COVID-19 Data Analysis
+         Date  Cases  Recoveries  Deaths
+0  2020-03-01    100          20       2
+1  2020-04-01    500         200      15
+2  2020-05-01   1200         700      40
+3  2020-06-01   2500        1800      80
+4  2020-07-01   4000        3200     120
+
+
+Maximum Cases: 4000
+Maximum Recoveries: 3200
+Maximum Deaths: 120
